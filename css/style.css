@@ -48,3 +48,46 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+.bi-twitter-x:before{
+  content:'';
+  background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9InN2ZzUiIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCgkgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1MDBweCIgaGVpZ2h0PSI1MDBweCIKCSB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTAwIDUwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxnPgoJPGVsbGlwc2Ugc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIGN4PSIyNTAiIGN5PSIyNTAiIHJ4PSIyNDkuNzM1IiByeT0iMjUwLjIzNSIvPgoJPGcgaWQ9ImxheWVyMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTIuMzkwMDg4LC0yNS4wNTg1OTcpIj4KCQk8cGF0aCBpZD0icGF0aDEwMDkiIGZpbGw9IiNGRkZGRkYiIGQ9Ik00My43NzMsMTMwLjA4bDExOS4zNywxNTkuOTI2TDQzLjAyLDQyMC4wMzNoMjcuMDM3bDEwNS4xNy0xMTMuODQ0bDg0Ljk3MiwxMTMuODQ0aDkxLjk5OQoJCQlMMjI2LjExMSwyNTEuMTE0TDMzNy45MjEsMTMwLjA4aC0yNy4wMzdsLTk2Ljg1MywxMDQuODQ1TDEzNS43NzQsMTMwLjA4SDQzLjc3M3ogTTgzLjUzMiwxNTAuMDMzaDQyLjI2NUwzMTIuNDM0LDQwMC4wOEgyNzAuMTcKCQkJTDgzLjUzMiwxNTAuMDMzeiIvPgoJPC9nPgo8L2c+Cjwvc3ZnPgo=');
+  background-size: cover;
+  height: 16px;
+  aspect-ratio: 1 / 1;
+}
+
+/*
+If you add the class "inverted", the logo will be completely inverted.
+*/
+.bi-twitter-x.inverted{
+  filter: invert(100%);
+}
+
+/* 
+Example: Large Buttons
+You only have to adjust the height to 20px when icon is inside of a large button 
+*/
+.btn-lg .bi-twitter-x:before{
+  height: 20px;
+}
+
+/*
+Example: Standalone logo sizes
+*/
+h1 .bi-twitter-x:before,
+.fs-1 .bi-twitter-x:before{
+  height: 40px;
+}
+h2 .bi-twitter-x:before,
+.fs-2 .bi-twitter-x:before{
+  height: 32px;
+}
+h3 .bi-twitter-x:before,
+.fs-3 .bi-twitter-x:before{
+  height: 28px;
+}
+h4 .bi-twitter-x:before,
+.fs-4 .bi-twitter-x:before{
+  height: 25px;
+}
