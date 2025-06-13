@@ -1,0 +1,17 @@
+site_name: HomeLab Pro
+site_url: https://homelabpro.github.io
+theme:
+  name: material
+  logo: img/favicon.ico
+  favicon: img/favicon.ico
+  features:
+    - navigation.sections
+    - navigation.footer
+plugins:
+  - search:
+      lang: en
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/@homelabpro
+  generator: false
