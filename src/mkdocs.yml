@@ -14,4 +14,6 @@ extra:
   social:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/@homelabpro
+    - icon: fontawesome/brands/facebook-f
+      link: https://www.facebook.com/appegypt
   generator: false
