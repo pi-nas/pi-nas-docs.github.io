@@ -1,18 +1,18 @@
-# Welcome to HomeLab Pro
+# Welcome to AppEgypt
 
-Here you will find resources for your HomeLab to satisfy all your self-hosting needs.
+Here you will find all kinds of apps made in Egypt.
 
-## Topics
+## Category
 
-* Linux
-* Networking
-* Virtualization/Containerization
-* Security
-* Self-hosting
+* eCommerce
+* Utilities
+* Games
+* Transportation
 
-## Technologies & Concepts
+## Platform
 
-* ProxMox
-* Kubernetes
-* Docker
-* CI/CD
+* Web
+* iOS
+* iPadOS
+* macOS
+* Windows

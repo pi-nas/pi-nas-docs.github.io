@@ -1,6 +1,6 @@
-# HomeLab Pro
+# AppEgypt
 
-This repository is used for the static website of HomeLab Pro.
+This repository is used for the static website of AppEgypt.
 
 ## Development & Building
 
