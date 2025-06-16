@@ -1,6 +1,6 @@
-# AppEgypt
+# 1xLabs
 
-This repository is used for the static website of AppEgypt.
+This repository is used for the website of 1xLabs.
 
 ## Development & Building
 

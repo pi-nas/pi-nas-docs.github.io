@@ -1,18 +1,15 @@
-# Welcome to AppEgypt
+# Welcome to 1xLabs
 
-Here you will find all kinds of apps made in Egypt.
+This is the official webiste of 1xLabs.
 
-## Category
+## Category1
 
-* eCommerce
-* Utilities
-* Games
-* Transportation
+* Section1
+* Section2
+* Section3
 
-## Platform
+## Category2
 
-* Web
-* iOS
-* iPadOS
-* macOS
-* Windows
+* Section1
+* Section2
+* Section3

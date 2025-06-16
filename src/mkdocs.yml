@@ -1,5 +1,5 @@
-site_name: AppEgypt
-site_url: https://appegypt.github.io
+site_name: 1xLabs
+site_url: https://1xlabs.github.io
 theme:
   name: material
   logo: img/favicon.ico
@@ -13,7 +13,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/@homelabpro
+      link: https://x.com/@1xlabs
     - icon: fontawesome/brands/facebook-f
-      link: https://www.facebook.com/appegypt
+      link: https://www.facebook.com/1xlabs
   generator: false
