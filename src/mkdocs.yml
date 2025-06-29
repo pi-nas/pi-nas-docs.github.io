@@ -1,5 +1,5 @@
-site_name: 1xLabs
-site_url: https://1xlabs.github.io
+site_name: Linux on Arm
+site_url: https://linuxonarm64.github.io
 theme:
   name: material
   logo: img/favicon.ico
@@ -13,7 +13,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/@1xlabs
+      link: https://x.com/linuxonarm64
     - icon: fontawesome/brands/facebook-f
-      link: https://www.facebook.com/1xlabs
+      link: https://www.facebook.com/linuxonarm
   generator: false

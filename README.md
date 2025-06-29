@@ -1,6 +1,6 @@
-# 1xLabs
+# Linux On Arm
 
-This repository is used for the website of 1xLabs.
+This repository is used for the website of Linux On Arm.
 
 ## Development & Building
 

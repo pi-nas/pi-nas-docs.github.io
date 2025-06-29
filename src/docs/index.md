@@ -1,4 +1,4 @@
-# Welcome to 1xLabs
+# Welcome to Linux On Arm
 
 This is the official webiste of 1xLabs.
 
