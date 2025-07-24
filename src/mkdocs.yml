@@ -1,5 +1,5 @@
-site_name: Linux on Arm
-site_url: https://linuxonarm64.github.io
+site_name: Willz Cloud
+site_url: https://willzcloud.github.io
 theme:
   name: material
   logo: img/favicon.ico
@@ -13,7 +13,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/linuxonarm64
+      link: https://x.com/willzcloud
     - icon: fontawesome/brands/facebook-f
-      link: https://www.facebook.com/linuxonarm
+      link: https://www.facebook.com/willzcloud
   generator: false

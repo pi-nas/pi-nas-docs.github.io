@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Get the name of the current directory
 current_dir=$(basename "$PWD")
@@ -10,7 +10,7 @@ dirs_to_remove=("assets" "img" "search")
 target_dir="./src"
 
 # Check if the current directory is linuxonarm64.github.io
-if [ "$current_dir" = "linuxonarm64.github.io" ]; then
+if [ "$current_dir" = "willzcloud.github.io" ]; then
   for dir in "${dirs_to_remove[@]}"; do
     if [ -d "$dir" ]; then
       echo "Removing $dir directory..."
@@ -21,7 +21,7 @@ if [ "$current_dir" = "linuxonarm64.github.io" ]; then
     fi
   done
 else
-  echo "Error: You are not in the linuxonarm64.github.io directory."
+  echo "Error: You are not in the willzcloud.github.io directory."
   exit 1
 fi
 
