@@ -12,7 +12,7 @@ plugins:
       lang: en
 extra:
   social:
-    - icon: fontawesome/brands/x-twitter
+    - icon: fontawesome/brands/twitter
       link: https://x.com/willzcloud
     - icon: fontawesome/brands/facebook-f
       link: https://www.facebook.com/willzcloud
