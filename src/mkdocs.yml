@@ -1,5 +1,5 @@
-site_name: Willz Cloud
-site_url: https://willzcloud.github.io
+site_name: Willz Lab
+site_url: https://willzlab.github.io
 theme:
   name: material
   logo: img/favicon.ico
@@ -13,7 +13,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: https://x.com/willzcloud
+      link: https://x.com/willzlab
     - icon: fontawesome/brands/facebook-f
-      link: https://www.facebook.com/willzcloud
+      link: https://www.facebook.com/willzlab
   generator: false

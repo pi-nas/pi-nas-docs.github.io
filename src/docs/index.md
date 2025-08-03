@@ -1,6 +1,6 @@
-# Welcome to Linux On Arm
+# Welcome to Willz Lab
 
-This is the official webiste of 1xLabs.
+This is the official webiste of Willz Lab.
 
 ## Category1
 

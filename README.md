@@ -1,4 +1,4 @@
-# Willz Cloud
+# Willz Lab
 
 The Homelab Cloud.
 
