@@ -13,7 +13,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: https://x.com/pi-nas
+      link: https://x.com/The_Pi_NAS
     - icon: fontawesome/brands/facebook-f
       link: https://www.facebook.com/pi-nas
   generator: false
