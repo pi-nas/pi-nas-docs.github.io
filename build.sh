@@ -10,7 +10,7 @@ dirs_to_remove=("assets" "img" "search")
 target_dir="./src"
 
 # Check if the current directory is linuxonarm64.github.io
-if [ "$current_dir" = "willzlab.github.io" ]; then
+if [ "$current_dir" = "pi-nas-docs.github.io" ]; then
   for dir in "${dirs_to_remove[@]}"; do
     if [ -d "$dir" ]; then
       echo "Removing $dir directory..."
@@ -21,7 +21,7 @@ if [ "$current_dir" = "willzlab.github.io" ]; then
     fi
   done
 else
-  echo "Error: You are not in the willzlab.github.io directory."
+  echo "Error: You are not in the pi-nas-docs.github.io directory."
   exit 1
 fi
 
